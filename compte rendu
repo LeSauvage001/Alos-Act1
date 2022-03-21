@@ -1,0 +1,20 @@
+Compte rendue .
+
+ pour question que signifie cache=no-cache
+ No-cache : Indique de renvoyer systématiquement la requête au serveur et ne servir une éventuelle version en cache que dans le cas où le serveur le demande.
+
+je vous envoie les captures pour expliquer ce que jai fait 
+
+
+tout dabord jai commencer par generer les donnes en mettant les fonctions qui correspondent a mon theme tourism api qui sont id name adresse about and localisation.
+
+ensuite jai installer npm et json et node avec la commande de linux.
+
+jai utiliser webstorm pour faciliter la tache.
+
+ensuite jai ouvert le fichier json sur un serveur avec la commande json-server --watch db.json et jai ouvert un autre terminal pour faire appel au fichier node avec la commande node unirest.js.
+
+  
+
+
+
